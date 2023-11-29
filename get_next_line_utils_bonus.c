@@ -1,16 +1,16 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   get_next_line_utils.c                              :+:      :+:    :+:   */
+/*   get_next_line_utils_bonus.c                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: erpiana <erpiana@student.42.rio>           +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/11/29 00:15:23 by erpiana           #+#    #+#             */
-/*   Updated: 2023/11/29 00:32:45 by erpiana          ###   ########.fr       */
+/*   Created: 2023/11/29 00:31:58 by erpiana           #+#    #+#             */
+/*   Updated: 2023/11/29 00:32:08 by erpiana          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 char	*ft_strdup(const char *s)
 {
